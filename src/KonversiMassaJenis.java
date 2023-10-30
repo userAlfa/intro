@@ -20,7 +20,7 @@ public class KonversiMassaJenis {
         Scanner input = new Scanner(System.in);
         // Variabel boolean untuk menentukan apakah program selesai atau tidak.
         boolean selesai = false;
-        System.out.println("Selamat Datang");
+
 
         // Loop utama program.
         while (!selesai) {
